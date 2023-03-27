@@ -42,7 +42,7 @@ const Login = () => {
 
     return (
         <div className='login-container'>
-            <h1>Iniciar sesión</h1>
+            <h1>Iniciar sesión en CriptoMarket</h1>
             <form onSubmit={onSubmit}>
                 <div className="field">
                     <label htmlFor="email">Correo Electronico</label>
